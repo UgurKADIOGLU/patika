@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Kdv" />
         <module name="hipotenus" />
+        <module name="taksimetre" />
       </profile>
     </annotationProcessing>
   </component>
