@@ -15,6 +15,7 @@
         <module name="vucutKitleEndeksi" />
         <module name="kullaniciGirisi" />
         <module name="sinifGecme" />
+        <module name="etkinlikOneri" />
       </profile>
     </annotationProcessing>
   </component>

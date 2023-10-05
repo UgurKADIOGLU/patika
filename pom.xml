@@ -18,6 +18,7 @@
         <module>kosulluIfadeler</module>
         <module>kullaniciGirisi</module>
         <module>sinifGecme</module>
+        <module>etkinlikOneri</module>
     </modules>
 
     <properties>
