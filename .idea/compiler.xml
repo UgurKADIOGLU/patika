@@ -11,6 +11,7 @@
         <module name="hipotenus" />
         <module name="vucutKitleEndeksi" />
         <module name="taksimetre" />
+        <module name="ManavHesaapMakinesi" />
       </profile>
     </annotationProcessing>
   </component>
