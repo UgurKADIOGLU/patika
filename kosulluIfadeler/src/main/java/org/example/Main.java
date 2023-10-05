@@ -38,6 +38,8 @@ public class Main {
             case 4:
                 System.out.println("Bölme işlemnin sonucu : "+(numberOne/numberTwo));
                 break;
+            default:
+                System.out.println("Doğru bir seçim yamadınız ");
         }
 
 
