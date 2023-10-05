@@ -14,6 +14,7 @@
         <module name="Kdv" />
         <module name="vucutKitleEndeksi" />
         <module name="kullaniciGirisi" />
+        <module name="sinifGecme" />
       </profile>
     </annotationProcessing>
   </component>
