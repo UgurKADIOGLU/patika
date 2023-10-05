@@ -7,11 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="daire" />
-        <module name="Kdv" />
+        <module name="kosulluIfadeler" />
         <module name="hipotenus" />
-        <module name="vucutKitleEndeksi" />
         <module name="taksimetre" />
         <module name="ManavHesaapMakinesi" />
+        <module name="Kdv" />
+        <module name="vucutKitleEndeksi" />
       </profile>
     </annotationProcessing>
   </component>
