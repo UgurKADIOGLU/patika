@@ -19,6 +19,7 @@
         <module>kullaniciGirisi</module>
         <module>sinifGecme</module>
         <module>etkinlikOneri</module>
+        <module>sayilariKucuktenBuyugeSiralama</module>
     </modules>
 
     <properties>
