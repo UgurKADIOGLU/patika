@@ -9,6 +9,7 @@
         <module name="daire" />
         <module name="Kdv" />
         <module name="hipotenus" />
+        <module name="vucutKitleEndeksi" />
         <module name="taksimetre" />
       </profile>
     </annotationProcessing>
