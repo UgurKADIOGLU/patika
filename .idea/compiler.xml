@@ -13,6 +13,7 @@
         <module name="ManavHesaapMakinesi" />
         <module name="Kdv" />
         <module name="vucutKitleEndeksi" />
+        <module name="kullaniciGirisi" />
       </profile>
     </annotationProcessing>
   </component>
