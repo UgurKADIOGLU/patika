@@ -25,6 +25,8 @@
         <module>ucakBileti/cinZodyagi</module>
         <module>cinZodyagi1</module>
         <module>artikYil</module>
+        <module>whileDongusu</module>
+        <module>ciftSayi</module>
     </modules>
 
     <properties>

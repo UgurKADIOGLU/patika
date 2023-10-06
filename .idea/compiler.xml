@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ucakBileti" />
+        <module name="whileDongusu" />
         <module name="hipotenus" />
         <module name="taksimetre" />
         <module name="sayilariKucuktenBuyugeSiralama" />
         <module name="burclar" />
+        <module name="ciftSayi" />
         <module name="sinifGecme" />
         <module name="etkinlikOneri" />
         <module name="daire" />

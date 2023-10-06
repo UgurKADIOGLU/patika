@@ -9,6 +9,8 @@
     <file url="file://$PROJECT_DIR$/artikYil/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/burclar/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/burclar/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ciftSayi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ciftSayi/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cinZodyagi1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cinZodyagi1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/daire/src/main/java" charset="UTF-8" />
@@ -35,5 +37,7 @@
     <file url="file://$PROJECT_DIR$/ucakBileti/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vucutKitleEndeksi/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vucutKitleEndeksi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/whileDongusu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/whileDongusu/src/main/resources" charset="UTF-8" />
   </component>
 </project>
