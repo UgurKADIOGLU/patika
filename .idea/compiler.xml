@@ -20,6 +20,7 @@
         <module name="cinZodyagi1" />
         <module name="artikYil" />
         <module name="ManavHesaapMakinesi" />
+        <module name="negatifTekSayi" />
         <module name="Kdv" />
         <module name="cinZodyagi" />
         <module name="vucutKitleEndeksi" />

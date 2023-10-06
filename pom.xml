@@ -27,6 +27,7 @@
         <module>artikYil</module>
         <module>whileDongusu</module>
         <module>ciftSayi</module>
+        <module>negatifTekSayi</module>
     </modules>
 
     <properties>
