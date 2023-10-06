@@ -29,6 +29,7 @@
         <module>ciftSayi</module>
         <module>negatifTekSayi</module>
         <module>ikininKuvvetleri</module>
+        <module>faktoriyel</module>
     </modules>
 
     <properties>

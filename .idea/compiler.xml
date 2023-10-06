@@ -26,6 +26,7 @@
         <module name="cinZodyagi" />
         <module name="vucutKitleEndeksi" />
         <module name="kullaniciGirisi" />
+        <module name="faktoriyel" />
       </profile>
     </annotationProcessing>
   </component>
