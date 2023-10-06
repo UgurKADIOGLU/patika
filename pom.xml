@@ -32,6 +32,7 @@
         <module>faktoriyel</module>
         <module>usluSayi</module>
         <module>amstrongSayi</module>
+        <module>harmonikSayi</module>
     </modules>
 
     <properties>
