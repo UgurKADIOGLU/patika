@@ -30,6 +30,7 @@
         <module>negatifTekSayi</module>
         <module>ikininKuvvetleri</module>
         <module>faktoriyel</module>
+        <module>usluSayi</module>
     </modules>
 
     <properties>
