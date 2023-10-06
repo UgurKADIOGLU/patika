@@ -22,6 +22,8 @@
         <module>sayilariKucuktenBuyugeSiralama</module>
         <module>burclar</module>
         <module>ucakBileti</module>
+        <module>ucakBileti/cinZodyagi</module>
+        <module>cinZodyagi1</module>
     </modules>
 
     <properties>

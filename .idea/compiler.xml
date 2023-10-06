@@ -15,8 +15,10 @@
         <module name="etkinlikOneri" />
         <module name="daire" />
         <module name="kosulluIfadeler" />
+        <module name="cinZodyagi1" />
         <module name="ManavHesaapMakinesi" />
         <module name="Kdv" />
+        <module name="cinZodyagi" />
         <module name="vucutKitleEndeksi" />
         <module name="kullaniciGirisi" />
       </profile>
