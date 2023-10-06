@@ -21,6 +21,7 @@
         <module>etkinlikOneri</module>
         <module>sayilariKucuktenBuyugeSiralama</module>
         <module>burclar</module>
+        <module>ucakBileti</module>
     </modules>
 
     <properties>

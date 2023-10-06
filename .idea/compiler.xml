@@ -6,18 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="daire" />
-        <module name="kosulluIfadeler" />
+        <module name="ucakBileti" />
         <module name="hipotenus" />
         <module name="taksimetre" />
-        <module name="ManavHesaapMakinesi" />
         <module name="sayilariKucuktenBuyugeSiralama" />
         <module name="burclar" />
+        <module name="sinifGecme" />
+        <module name="etkinlikOneri" />
+        <module name="daire" />
+        <module name="kosulluIfadeler" />
+        <module name="ManavHesaapMakinesi" />
         <module name="Kdv" />
         <module name="vucutKitleEndeksi" />
         <module name="kullaniciGirisi" />
-        <module name="sinifGecme" />
-        <module name="etkinlikOneri" />
       </profile>
     </annotationProcessing>
   </component>
