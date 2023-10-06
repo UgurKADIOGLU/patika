@@ -9,6 +9,7 @@
         <module name="ucakBileti" />
         <module name="whileDongusu" />
         <module name="hipotenus" />
+        <module name="ikininKuvvetleri" />
         <module name="taksimetre" />
         <module name="sayilariKucuktenBuyugeSiralama" />
         <module name="burclar" />

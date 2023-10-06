@@ -28,6 +28,7 @@
         <module>whileDongusu</module>
         <module>ciftSayi</module>
         <module>negatifTekSayi</module>
+        <module>ikininKuvvetleri</module>
     </modules>
 
     <properties>
