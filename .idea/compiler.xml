@@ -16,6 +16,7 @@
         <module name="daire" />
         <module name="kosulluIfadeler" />
         <module name="cinZodyagi1" />
+        <module name="artikYil" />
         <module name="ManavHesaapMakinesi" />
         <module name="Kdv" />
         <module name="cinZodyagi" />

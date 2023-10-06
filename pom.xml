@@ -24,6 +24,7 @@
         <module>ucakBileti</module>
         <module>ucakBileti/cinZodyagi</module>
         <module>cinZodyagi1</module>
+        <module>artikYil</module>
     </modules>
 
     <properties>
