@@ -20,6 +20,7 @@
         <module>sinifGecme</module>
         <module>etkinlikOneri</module>
         <module>sayilariKucuktenBuyugeSiralama</module>
+        <module>burclar</module>
     </modules>
 
     <properties>

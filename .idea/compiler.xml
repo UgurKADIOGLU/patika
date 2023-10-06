@@ -12,6 +12,7 @@
         <module name="taksimetre" />
         <module name="ManavHesaapMakinesi" />
         <module name="sayilariKucuktenBuyugeSiralama" />
+        <module name="burclar" />
         <module name="Kdv" />
         <module name="vucutKitleEndeksi" />
         <module name="kullaniciGirisi" />
