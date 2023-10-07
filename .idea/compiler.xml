@@ -17,6 +17,7 @@
         <module name="daire" />
         <module name="artikYil" />
         <module name="ManavHesaapMakinesi" />
+        <module name="tersYildiz" />
         <module name="atm" />
         <module name="Kdv" />
         <module name="cinZodyagi" />

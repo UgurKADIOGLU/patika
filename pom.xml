@@ -39,6 +39,7 @@
         <module>faktoriyel/enBuyuk</module>
         <module>enBuyukSayi</module>
         <module>mukemmelSayi</module>
+        <module>tersYildiz</module>
     </modules>
 
     <properties>
