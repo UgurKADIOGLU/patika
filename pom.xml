@@ -41,6 +41,7 @@
         <module>mukemmelSayi</module>
         <module>tersYildiz</module>
         <module>asalSayilar</module>
+        <module>fiboncci</module>
     </modules>
 
     <properties>
