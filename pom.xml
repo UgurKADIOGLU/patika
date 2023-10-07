@@ -34,6 +34,7 @@
         <module>amstrongSayi</module>
         <module>harmonikSayi</module>
         <module>yildiz</module>
+        <module>atm</module>
     </modules>
 
     <properties>
