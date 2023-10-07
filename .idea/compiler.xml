@@ -13,6 +13,7 @@
         <module name="sinifGecme" />
         <module name="yildiz" />
         <module name="amstrongSayi" />
+        <module name="enBuyuk" />
         <module name="daire" />
         <module name="artikYil" />
         <module name="ManavHesaapMakinesi" />
@@ -28,6 +29,7 @@
         <module name="sayilariKucuktenBuyugeSiralama" />
         <module name="burclar" />
         <module name="ciftSayi" />
+        <module name="enBuyukSayi" />
         <module name="etkinlikOneri" />
         <module name="kosulluIfadeler" />
         <module name="cinZodyagi1" />

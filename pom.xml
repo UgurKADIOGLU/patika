@@ -36,6 +36,8 @@
         <module>yildiz</module>
         <module>atm</module>
         <module>ebobEkok</module>
+        <module>faktoriyel/enBuyuk</module>
+        <module>enBuyukSayi</module>
     </modules>
 
     <properties>
