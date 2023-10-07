@@ -36,6 +36,7 @@
         <module name="cinZodyagi1" />
         <module name="mukemmelSayi" />
         <module name="negatifTekSayi" />
+        <module name="asalSayilar" />
         <module name="ebobEkok" />
       </profile>
     </annotationProcessing>

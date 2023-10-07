@@ -40,6 +40,7 @@
         <module>enBuyukSayi</module>
         <module>mukemmelSayi</module>
         <module>tersYildiz</module>
+        <module>asalSayilar</module>
     </modules>
 
     <properties>
