@@ -33,6 +33,7 @@
         <module name="etkinlikOneri" />
         <module name="kosulluIfadeler" />
         <module name="cinZodyagi1" />
+        <module name="mukemmelSayi" />
         <module name="negatifTekSayi" />
         <module name="ebobEkok" />
       </profile>

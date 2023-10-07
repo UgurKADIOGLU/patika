@@ -38,6 +38,7 @@
         <module>ebobEkok</module>
         <module>faktoriyel/enBuyuk</module>
         <module>enBuyukSayi</module>
+        <module>mukemmelSayi</module>
     </modules>
 
     <properties>
