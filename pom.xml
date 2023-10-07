@@ -35,6 +35,7 @@
         <module>harmonikSayi</module>
         <module>yildiz</module>
         <module>atm</module>
+        <module>ebobEkok</module>
     </modules>
 
     <properties>

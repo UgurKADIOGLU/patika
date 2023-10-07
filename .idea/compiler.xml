@@ -32,6 +32,7 @@
         <module name="kosulluIfadeler" />
         <module name="cinZodyagi1" />
         <module name="negatifTekSayi" />
+        <module name="ebobEkok" />
       </profile>
     </annotationProcessing>
   </component>
