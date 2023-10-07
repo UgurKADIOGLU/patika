@@ -7,29 +7,30 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="harmonikSayi" />
-        <module name="ucakBileti" />
         <module name="whileDongusu" />
-        <module name="hipotenus" />
         <module name="ikininKuvvetleri" />
         <module name="taksimetre" />
-        <module name="sayilariKucuktenBuyugeSiralama" />
-        <module name="burclar" />
-        <module name="ciftSayi" />
         <module name="sinifGecme" />
-        <module name="etkinlikOneri" />
+        <module name="yildiz" />
         <module name="amstrongSayi" />
         <module name="daire" />
-        <module name="kosulluIfadeler" />
-        <module name="cinZodyagi1" />
         <module name="artikYil" />
         <module name="ManavHesaapMakinesi" />
-        <module name="negatifTekSayi" />
         <module name="Kdv" />
         <module name="cinZodyagi" />
         <module name="usluSayi" />
         <module name="vucutKitleEndeksi" />
         <module name="kullaniciGirisi" />
         <module name="faktoriyel" />
+        <module name="ucakBileti" />
+        <module name="hipotenus" />
+        <module name="sayilariKucuktenBuyugeSiralama" />
+        <module name="burclar" />
+        <module name="ciftSayi" />
+        <module name="etkinlikOneri" />
+        <module name="kosulluIfadeler" />
+        <module name="cinZodyagi1" />
+        <module name="negatifTekSayi" />
       </profile>
     </annotationProcessing>
   </component>

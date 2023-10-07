@@ -33,6 +33,7 @@
         <module>usluSayi</module>
         <module>amstrongSayi</module>
         <module>harmonikSayi</module>
+        <module>yildiz</module>
     </modules>
 
     <properties>
