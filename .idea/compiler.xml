@@ -37,10 +37,12 @@
         <module name="kosulluIfadeler" />
         <module name="cinZodyagi1" />
         <module name="mukemmelSayi" />
+        <module name="recursiveFibonacci" />
         <module name="deneme" />
         <module name="negatifTekSayi" />
         <module name="asalSayilar" />
         <module name="ebobEkok" />
+        <module name="hesapMakinesi" />
       </profile>
     </annotationProcessing>
   </component>

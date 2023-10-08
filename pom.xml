@@ -44,6 +44,8 @@
         <module>fiboncci</module>
         <module>method</module>
         <module>deneme</module>
+        <module>recursiveFibonacci</module>
+        <module>hesapMakinesi</module>
     </modules>
 
     <properties>
