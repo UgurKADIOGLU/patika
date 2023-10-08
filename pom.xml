@@ -46,6 +46,7 @@
         <module>deneme</module>
         <module>recursiveFibonacci</module>
         <module>hesapMakinesi</module>
+        <module>usAlma</module>
     </modules>
 
     <properties>
