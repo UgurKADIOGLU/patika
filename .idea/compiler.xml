@@ -11,6 +11,7 @@
         <module name="ikininKuvvetleri" />
         <module name="asalSayi" />
         <module name="taksimetre" />
+        <module name="besEksilen" />
         <module name="sinifGecme" />
         <module name="yildiz" />
         <module name="amstrongSayi" />

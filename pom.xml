@@ -48,6 +48,7 @@
         <module>hesapMakinesi</module>
         <module>usAlma</module>
         <module>asalSayi</module>
+        <module>besEksilen</module>
     </modules>
 
     <properties>
