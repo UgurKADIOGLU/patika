@@ -42,6 +42,8 @@
         <module>tersYildiz</module>
         <module>asalSayilar</module>
         <module>fiboncci</module>
+        <module>method</module>
+        <module>deneme</module>
     </modules>
 
     <properties>

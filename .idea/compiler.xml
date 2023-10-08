@@ -27,6 +27,7 @@
         <module name="kullaniciGirisi" />
         <module name="faktoriyel" />
         <module name="ucakBileti" />
+        <module name="method" />
         <module name="hipotenus" />
         <module name="sayilariKucuktenBuyugeSiralama" />
         <module name="burclar" />
@@ -36,6 +37,7 @@
         <module name="kosulluIfadeler" />
         <module name="cinZodyagi1" />
         <module name="mukemmelSayi" />
+        <module name="deneme" />
         <module name="negatifTekSayi" />
         <module name="asalSayilar" />
         <module name="ebobEkok" />
