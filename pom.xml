@@ -47,6 +47,7 @@
         <module>recursiveFibonacci</module>
         <module>hesapMakinesi</module>
         <module>usAlma</module>
+        <module>asalSayi</module>
     </modules>
 
     <properties>

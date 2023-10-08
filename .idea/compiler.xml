@@ -9,6 +9,7 @@
         <module name="harmonikSayi" />
         <module name="whileDongusu" />
         <module name="ikininKuvvetleri" />
+        <module name="asalSayi" />
         <module name="taksimetre" />
         <module name="sinifGecme" />
         <module name="yildiz" />
