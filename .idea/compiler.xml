@@ -22,6 +22,7 @@
         <module name="tersYildiz" />
         <module name="atm" />
         <module name="fiboncci" />
+        <module name="boks" />
         <module name="Kdv" />
         <module name="cinZodyagi" />
         <module name="usluSayi" />

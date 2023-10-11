@@ -49,6 +49,7 @@
         <module>usAlma</module>
         <module>asalSayi</module>
         <module>besEksilen</module>
+        <module>boks</module>
     </modules>
 
     <properties>
