@@ -50,6 +50,7 @@
         <module>asalSayi</module>
         <module>besEksilen</module>
         <module>boks</module>
+        <module>employee</module>
     </modules>
 
     <properties>
