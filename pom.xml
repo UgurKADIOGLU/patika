@@ -51,6 +51,7 @@
         <module>besEksilen</module>
         <module>boks</module>
         <module>employee</module>
+        <module>arrays</module>
     </modules>
 
     <properties>

@@ -47,6 +47,7 @@
         <module name="negatifTekSayi" />
         <module name="asalSayilar" />
         <module name="ebobEkok" />
+        <module name="arrays" />
         <module name="hesapMakinesi" />
       </profile>
     </annotationProcessing>
