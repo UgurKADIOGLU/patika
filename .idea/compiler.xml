@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="harmonikSayi" />
         <module name="whileDongusu" />
+        <module name="diziTekrar" />
         <module name="ikininKuvvetleri" />
         <module name="asalSayi" />
         <module name="taksimetre" />

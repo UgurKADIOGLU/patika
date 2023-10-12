@@ -54,6 +54,7 @@
         <module>arrays</module>
         <module>arrayMinMax</module>
         <module>aHarfi</module>
+        <module>diziTekrar</module>
     </modules>
 
     <properties>
