@@ -52,6 +52,7 @@
         <module>boks</module>
         <module>employee</module>
         <module>arrays</module>
+        <module>arrayMinMax</module>
     </modules>
 
     <properties>
