@@ -53,6 +53,7 @@
         <module>employee</module>
         <module>arrays</module>
         <module>arrayMinMax</module>
+        <module>aHarfi</module>
     </modules>
 
     <properties>

@@ -18,6 +18,7 @@
         <module name="amstrongSayi" />
         <module name="enBuyuk" />
         <module name="daire" />
+        <module name="aHarfi" />
         <module name="artikYil" />
         <module name="ManavHesaapMakinesi" />
         <module name="tersYildiz" />
