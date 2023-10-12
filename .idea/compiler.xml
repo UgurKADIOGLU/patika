@@ -38,6 +38,7 @@
         <module name="sayilariKucuktenBuyugeSiralama" />
         <module name="burclar" />
         <module name="usAlma" />
+        <module name="diziSiralama" />
         <module name="ciftSayi" />
         <module name="enBuyukSayi" />
         <module name="etkinlikOneri" />
