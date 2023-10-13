@@ -32,6 +32,7 @@
         <module name="diziSiralama" />
         <module name="ciftSayi" />
         <module name="enBuyukSayi" />
+        <module name="palindromikKelime" />
         <module name="etkinlikOneri" />
         <module name="frekans" />
         <module name="arrayMinMax" />

@@ -59,6 +59,7 @@
         <module>frekans</module>
         <module>transpoz</module>
         <module>math</module>
+        <module>palindromikKelime</module>
     </modules>
 
     <properties>
