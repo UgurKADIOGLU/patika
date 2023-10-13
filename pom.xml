@@ -57,6 +57,7 @@
         <module>diziTekrar</module>
         <module>diziSiralama</module>
         <module>frekans</module>
+        <module>transpoz</module>
     </modules>
 
     <properties>
