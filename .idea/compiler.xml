@@ -44,6 +44,7 @@
         <module name="etkinlikOneri" />
         <module name="kosulluIfadeler" />
         <module name="cinZodyagi1" />
+        <module name="frekans" />
         <module name="mukemmelSayi" />
         <module name="recursiveFibonacci" />
         <module name="arrayMinMax" />
