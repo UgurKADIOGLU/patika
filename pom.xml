@@ -58,6 +58,7 @@
         <module>diziSiralama</module>
         <module>frekans</module>
         <module>transpoz</module>
+        <module>math</module>
     </modules>
 
     <properties>

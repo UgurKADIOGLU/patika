@@ -37,6 +37,7 @@
         <module name="arrayMinMax" />
         <module name="ebobEkok" />
         <module name="arrays" />
+        <module name="math" />
         <module name="harmonikSayi" />
         <module name="diziTekrar" />
         <module name="sinifGecme" />
