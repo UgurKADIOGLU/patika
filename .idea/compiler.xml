@@ -26,6 +26,7 @@
         <module name="usluSayi" />
         <module name="vucutKitleEndeksi" />
         <module name="faktoriyel" />
+        <module name="maynTarlasi" />
         <module name="method" />
         <module name="sayilariKucuktenBuyugeSiralama" />
         <module name="usAlma" />

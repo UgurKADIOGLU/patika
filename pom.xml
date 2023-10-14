@@ -60,6 +60,7 @@
         <module>transpoz</module>
         <module>math</module>
         <module>palindromikKelime</module>
+        <module>maynTarlasi</module>
     </modules>
 
     <properties>
